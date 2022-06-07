@@ -1,0 +1,121 @@
+
+
+.mainContar{
+    /* border: 2px solid red; */
+    left: 142px;
+    top: 175px;
+    bottom: 176px;
+    position: absolute;
+    width: 963px;
+    height: 362px;
+
+}
+.imageContainer{
+    position: absolute;
+    
+left: 142px;
+right: 60.62%;
+top: 175px;
+bottom: 176px;
+/* border: 2px solid green; */
+}
+img{
+    width: 362px;
+height: 368.13px;
+
+}
+.titalContainer{
+    position: absolute;
+    width: 289px;
+    height: 83px;
+    left: 400px;
+    top: 1px;
+    
+    font-family: 'Fredoka', sans-serif;
+    font-style: normal;
+    font-weight:400;
+    font-size: 60px;
+    line-height: 73px;
+    
+    /* Dark Green */
+    
+    color: #002C00;
+
+}
+.textContainer{
+position: absolute;
+    height: 225px;
+width: 554px;
+left: 546px;
+top: 262px;
+border-radius: nullpx;
+
+}
+/* .punchLine{
+    font-family: 'Manrope';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    position: absolute;
+width: 554px;
+height: 25px;
+left: 546px;
+top: 262px;
+color: #002C00;  
+} */
+
+.punchLine{
+    font-family: 'Manrope', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: -5%;
+    bottom: -800%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    
+    /* Dark Green */
+    
+    color: #002C00;
+}
+.secondTitle{
+   
+    position: absolute;
+    font-family: 'Manrope';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 554px;
+    height: 25px;
+    left: 0px;
+    top:70px;
+    color: #002C00;
+
+}
+.thirdTitle{
+    color: #002C00;
+    position: absolute;
+    font-family: 'Manrope';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 554px;
+    height: 25px;
+    left: 0px;
+    top:190px;
+    color: #002C00;
+}
